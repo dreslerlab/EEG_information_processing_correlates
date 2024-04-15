@@ -12,4 +12,4 @@ Aspiration: exhaustive overview of EEG correlates of brain functions encoding/ha
 - meta-stability
 - microstates
 - 
-- ...feel free to add more...
+- _...feel free to add more..._
