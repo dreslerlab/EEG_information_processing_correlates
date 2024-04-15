@@ -1,9 +1,15 @@
-# EEG_correlates_of_cognition
-Aspiration: exhaustive overview of EEG correlates of brain function encoding/handling information
+# EEG information processing correlates
+Aspiration: exhaustive overview of EEG correlates of brain functions encoding/handling information
 
+- event-related potentials
 - (local) oscillations
 - functional connectivity
+- phase-amplitude coupling
+- cross-frequency coupling
 - traveling waves
-- complexity/entropy/criticality
 - aperiodic activity/slopes
+- complexity/entropy/criticality
+- meta-stability
+- microstates
+- 
 - ...feel free to add more...
