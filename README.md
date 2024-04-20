@@ -21,5 +21,6 @@ Aspiration: exhaustive overview of EEG correlates of brain functions encoding/ha
 - meta-stability
 - microstates
 - graph theory
+- ["novel feature space"](https://doi.org/10.1101/2024.04.17.589917)
 - 
 - _...feel free to add more..._
