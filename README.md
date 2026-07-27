@@ -3,24 +3,26 @@ Aspiration: exhaustive overview of EEG correlates of brain functions encoding/ha
 
 ## unsorted
 
+- inter-trial phase clustering
+- phase-amplitude coupling
+- cross-frequency coupling
+- turbulence
+- meta-stability
+- graph theory
+- ["novel feature space"](https://doi.org/10.1101/2024.04.17.589917)
+- 
+- _...feel free to add more..._
+
+## temporo-spatio-spectral decoding
+
 - event-related potentials
 - (local) oscillations
 - time-frequency power ((non)-phase-locked)
 - time-frequency phase
 - power envelope
-- inter-trial phase clustering
-- mutual information
-- functional connectivity
-- phase-amplitude coupling
-- cross-frequency coupling
-- traveling waves
-- turbulence
-- meta-stability
 - microstates
-- graph theory
-- ["novel feature space"](https://doi.org/10.1101/2024.04.17.589917)
-- 
-- _...feel free to add more..._
+- functional connectivity
+- traveling waves
 
 ## complexity-related
 
@@ -29,3 +31,6 @@ Aspiration: exhaustive overview of EEG correlates of brain functions encoding/ha
 - entropy
 - criticality
 - (Granger) causality
+- mutual information
+
+_...feel free to add more categories, or re-order items if you find mistakes._
